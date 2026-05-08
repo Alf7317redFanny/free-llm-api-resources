@@ -12,7 +12,7 @@ This lists various services that provide free access or credits towards API-base
 > This list explicitly excludes any services that are not legitimate (eg reverse engineers an existing chatbot)
 
 > [!TIP]
-> Personal note: I find Google AI Studio and Groq to be the most reliable for day-to-day use.
+> Personal note: I find Google AI Studio and Groq to be the most reliable for day-to-day use. OpenRouter is great for trying out a wide variety of models quickly.
 
 - [Free Providers](#free-providers)
   - [OpenRouter](#openrouter)
@@ -66,5 +66,4 @@ Models share a common quota.
 - [google/gemma-4-26b-a4b-it:free](https://openrouter.ai/google/gemma-4-26b-a4b-it:free)
 - [google/gemma-4-31b-it:free](https://openrouter.ai/google/gemma-4-31b-it:free)
 - [inclusionai/ling-2.6-1t:free](https://openrouter.ai/inclusionai/ling-2.6-1t:free)
-- [liquid/lfm-2.5-1.2b-instruct:free](https://openrouter.ai/liquid/lfm-2.5-1.2b-instruct:free)
-- [liquid/lfm-2.5-1.2b-thinking:free](https
+- [liquid/lfm-2.5-1.2b-instruct:fr
