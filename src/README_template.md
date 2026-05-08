@@ -11,6 +11,9 @@ This lists various services that provide free access or credits towards API-base
 > [!TIP]
 > Rate limits and free tiers change frequently — always check the provider's official docs before building something that depends on them.
 
+> [!NOTE]
+> Personal fork — I'm using this to track APIs I've actually tested. Entries marked with ✓ in my notes mean I've verified they work.
+
 {{TOC}}
 
 ## Free Providers
